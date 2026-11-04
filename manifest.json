@@ -1,0 +1,17 @@
+{
+  "name": "成绩和作业统计",
+  "short_name": "成绩作业",
+  "description": "西湖大学 Canvas 作业与成绩查询",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f4f7",
+  "theme_color": "#0b63c5",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
